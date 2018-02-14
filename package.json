@@ -1,0 +1,9 @@
+{
+  "name": "parcel-plugin-multi-require",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jsiebern/parcel-plugin-multi-require.git",
+  "author": "Jonathan Siebern <jsiebern88@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
